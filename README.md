@@ -9,5 +9,5 @@ Change into the repository directory, and enter the following in the command lin
 python3 integral_approximation.py
 ```
 
-Then follow the instruction, note that the expression entered has to follow python convention. The `math` package has already been imported.
+Then follow the instruction, note that the expression entered has to follow python convention. The `math` package has already been imported. [Reference Material](https://docs.sympy.org/dev/modules/parsing.html)
 
